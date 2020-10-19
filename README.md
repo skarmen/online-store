@@ -1,10 +1,35 @@
+## Table of contents
+* [General Info](#online-store)
+* [Demo](#demo)
+* [Built with](#built-with)
+* [Setup](#setup)
+
+## Online Store
+Interactive online store built with React and Firebase. Allows the user the browse products from a real Etsy store, see more details for each product and add them to their shopping cart.
+
+## Demo
+[Online Store](https://skarmen.github.io/online-store/)
+
+## Built with
+  - React
+  - JavaScript
+  - Firebase
+  - HTML 
+  - CSS
+
+## Setup
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+ **To Install**
+
+```$ git clone https://github.com/skarmen/online-store/```
+
+**To Run**
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -12,12 +37,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm test`
+### `yarn test`
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `yarn build`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -27,7 +52,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -63,6 +88,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
